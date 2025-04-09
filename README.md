@@ -14,4 +14,5 @@ Bot otomatis untuk bridge sepolia ke T1 Protocol bridge (devnet).
 ---
 
 ## ⚠️ Disclaimer
-bot ga gratis karna untuk personal, chat wa 085147107705 untuk tutornya
+- bot ga gratis karna untuk personal, chat wa 085147107705 untuk tutornya
+- Transaction History tidak muncul cuma di explorer muncul
